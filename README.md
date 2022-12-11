@@ -44,7 +44,7 @@ arka.
 
 <a href="https://github.com/Arkadina/react-with-ts">react-with-ts</a> | Primeira vez juntando typescript e ReactJS. </br>
 
-<a href="https://github.com/Arkadina/slider-theme-switcher">slider-theme-switcher</a> | Criando um layout para outro projeto. É uma dashboard com slider e um theme switcher, usando styled-components.
+<a href="https://github.com/Arkadina/slider-theme-switcher">slider-theme-switcher</a> | Criando um layout para outro projeto. É uma dashboard com slider e theme switcher.
 
 ### NodeJS
 
