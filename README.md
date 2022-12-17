@@ -12,6 +12,8 @@ arka.
 
 <a href="https://github.com/Arkadina/find-cep">find-cep</a> | Projeto para puxar os dados de uma api (fetch) e renderizá-los com javascript vanilla. </br>
 
+<a href="https://github.com/Arkadina/background-fixed">background-fixed</a> | Testando algumas propriedades no html e no css.
+
 #### Rocketseat
 
 
