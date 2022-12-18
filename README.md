@@ -56,4 +56,6 @@ arka.
 
 <a href="https://github.com/Arkadina/genids">genids</a> | Dando inicío ao estudos de typescript, recriei a biblioteca <a href="https://github.com/HubertRyanOfficial/genids">genids (Hubert Ryan)</a> para testar alguns fundamentos de ts, além de utilizar o jest para testes unitários. </br>
 
-<a href="https://github.com/Arkadina/nodejs-and-react">nodejs-and-react</a> | Unindo ReactJS e NodeJS para fazer uma aplicação fullstack: as requisições são feitas com o axios no React, são tratadas no Node juntamente com o mysql e retornadas para o React. 
+<a href="https://github.com/Arkadina/nodejs-and-react">nodejs-and-react</a> | Unindo ReactJS e NodeJS para fazer uma aplicação fullstack: as requisições são feitas com o axios no React, são tratadas no Node juntamente com o mysql e retornadas para o React.  </br>
+
+<a href="https://github.com/Arkadina/node-and-ejs">node-and-ejs</a> | Aprendendo como funciona o EJS para renderizar páginas através do node (express). Estilização: bootstrap.
