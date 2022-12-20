@@ -10,26 +10,28 @@ arka.
 
 ### HTML/CSS/JS
 
-<a href="https://github.com/Arkadina/find-cep">find-cep</a> | Projeto para puxar os dados de uma api (fetch) e renderizá-los com javascript vanilla. </br>
+<a href="https://github.com/Arkadina/find-cep">find-cep</a> | Projeto para puxar os dados de uma api (fetch) e renderizá-los com javascript vanilla. 
 
 <a href="https://github.com/Arkadina/background-fixed">background-fixed</a> | Testando algumas propriedades no html e no css.
 
 #### Rocketseat
 
 
-<a href="https://github.com/Arkadina/rocketseat-pagina-de-receita">rocketseat-pagina-de-receita</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Piloto-P-gina-de-Receita-15acc6a34f744484a2e64a1f115bfbae"> Portfolio </a> da Rocketseat. Iniciante: (html & css). </br>
+<a href="https://github.com/Arkadina/rocketseat-pagina-de-receita">rocketseat-pagina-de-receita</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Piloto-P-gina-de-Receita-15acc6a34f744484a2e64a1f115bfbae"> Portfolio </a> da Rocketseat. Iniciante: (html & css). 
 
-<a href="https://github.com/Arkadina/rocketseat-portfolio">rocketseat-portfolio</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6"> Portfolio </a> da Rocketseat. Iniciante: (html & css). </br>
+<a href="https://github.com/Arkadina/rocketseat-portfolio">rocketseat-portfolio</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6"> Portfolio </a> da Rocketseat. Iniciante: (html & css). 
 
-<a href="https://github.com/Arkadina/rocketseat-rocketnews">rocketseat-rocketnews</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-RocketNews-2e2c5d56b41f4b13a7d8df6b5affc0ec">RocketNews</a> Iniciante: (html & css). </br>
+<a href="https://github.com/Arkadina/rocketseat-rocketnews">rocketseat-rocketnews</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-RocketNews-2e2c5d56b41f4b13a7d8df6b5affc0ec">RocketNews</a> Iniciante: (html & css). 
 
-<a href="https://github.com/Arkadina/rocketseat-socialtree">rocketseat-socialtree</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f">Social tree</a>. Iniciante: (html & css). </br>
+<a href="https://github.com/Arkadina/rocketseat-socialtree">rocketseat-socialtree</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f">Social tree</a>. Iniciante: (html & css). 
 
-<a href="https://github.com/Arkadina/rocketseat-theme-switcher">rocketseat-theme-switcher</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Theme-Switcher-dbabdf77f70d43298df382c8e805fc13">Theme switcher</a> Intermediário: (html, css & javascript). </br>
+<a href="https://github.com/Arkadina/rocketseat-theme-switcher">rocketseat-theme-switcher</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Theme-Switcher-dbabdf77f70d43298df382c8e805fc13">Theme switcher</a> Intermediário: (html, css & javascript). 
 
-<a href="https://github.com/Arkadina/rocketseat-countdown">rocketseat-countdown</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Countdown-4572ce6f5c91469abe0171f454a13e3f">Countdown</a> Intermediário: (html, css & javascript). </br>
+<a href="https://github.com/Arkadina/rocketseat-countdown">rocketseat-countdown</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Countdown-4572ce6f5c91469abe0171f454a13e3f">Countdown</a> Intermediário: (html, css & javascript). 
 
-<a href="https://github.com/Arkadina/rocketseat-sidebar">rocketseat-slider</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Sidebar-f2251eb4976941eb958326ea327ffeb9">Sidebar</a> Intermediário: (html, css & javascript). </br>
+<a href="https://github.com/Arkadina/rocketseat-sidebar">rocketseat-slider</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Sidebar-f2251eb4976941eb958326ea327ffeb9">Sidebar</a> Intermediário: (html, css & javascript). 
+
+<a href="https://github.com/Arkadina/rocketseat-pricing-table">rocketseat-pricing-table</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32">Pricing table</a> Intermediário: (html & css). 
 
 ### ReactJS
 
@@ -38,15 +40,15 @@ arka.
 
 <a href="https://github.com/Arkadina/reactjs-CRUD-v2">reactjs-CRUD-v2</a> | Essa é a segunda versão da CRUD. Aqui eu utilizei <a href="https://react-redux.js.org/">react-redux</a> para salvar os dados num _state global_ ao invés de ficar chamando elas várias vezes através do firebase (como na primeira versão). </br>
 
-<a href="https://github.com/Arkadina/translate-in-reactjs">translate-in-reactjs</a> | Criei esse mini projeto para testar o i18next, pacote usado para traduzir textos. </br>
+<a href="https://github.com/Arkadina/translate-in-reactjs">translate-in-reactjs</a> | Criei esse mini projeto para testar o i18next, pacote usado para traduzir textos. 
 
-<a href="https://github.com/Arkadina/react-and-firebase">Authenticator with Firebase (+ firestore & firestorage)</a> | Um mini projeto com complexidade maior: sistema de login, cadastro e opções de perfil (mudar foto, nome e banner). Criei porque queria aprender como funcionava o firebase storage, daí me baseei no autenticador do Hubert que já englobava tanto o firestore quanto o storage no projeto. </br>
+<a href="https://github.com/Arkadina/react-and-firebase">Authenticator with Firebase (+ firestore & firestorage)</a> | Um mini projeto com complexidade maior: sistema de login, cadastro e opções de perfil (mudar foto, nome e banner). Criei porque queria aprender como funcionava o firebase storage, daí me baseei no autenticador do Hubert que já englobava tanto o firestore quanto o storage no projeto. 
 
-<a href="https://github.com/Arkadina/website-with-styledcomponents">website-with-styledcomponents</a> | Um projeto que eu quis testar um novo pacote que aprendi recentemente (styledcomponents). </br>
+<a href="https://github.com/Arkadina/website-with-styledcomponents">website-with-styledcomponents</a> | Um projeto que eu quis testar um novo pacote que aprendi recentemente (styledcomponents). 
 
-<a href="https://github.com/Arkadina/react-with-ts">react-with-ts</a> | Primeira vez juntando typescript e ReactJS. </br>
+<a href="https://github.com/Arkadina/react-with-ts">react-with-ts</a> | Primeira vez juntando typescript e ReactJS. 
 
-<a href="https://github.com/Arkadina/slider-theme-switcher">slider-theme-switcher</a> | Criando um layout para outro projeto. É uma dashboard com slider e theme switcher.
+<a href="https://github.com/Arkadina/slider-theme-switcher">slider-theme-switcher</a> | Criando um layout para outro projeto. É uma dashboard com slider e theme switcher. <br />
 
 ### NodeJS
 
