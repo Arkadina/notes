@@ -49,6 +49,8 @@ arka.
 
 <a href="https://github.com/Arkadina/slider-theme-switcher">slider-theme-switcher</a> | Criando um layout para outro projeto. É uma dashboard com slider e theme switcher. 
 
+<a href="https://github.com/Arkadina/click-render">Click Render</a> | Um mini projeto de clicker com typescript: ele pega a posição do click e gera um círculo nessas coordenadas.
+
 ### NodeJS
 
 <a href="https://github.com/Arkadina/api-restful-with-mysql">api-restful-with-mysql</a> | Aplicação de uma api usando NodeJS (express). Para fazer as requisições eu utilizei o Insomnia e para salvar os dados mySQL.
