@@ -62,3 +62,5 @@ arka.
 <a href="https://github.com/Arkadina/nodejs-and-react">nodejs-and-react</a> | Unindo ReactJS e NodeJS para fazer uma aplicação fullstack: as requisições são feitas com o axios no React, são tratadas no Node juntamente com o mysql e retornadas para o React.  
 
 <a href="https://github.com/Arkadina/node-and-ejs">node-and-ejs</a> | Aprendendo como funciona o EJS para renderizar páginas através do node (express). Estilização: bootstrap.
+
+<a href="https://github.com/Arkadina/multer-and-react">multer & react</a> | Testando o multer com o front-end: através do formik, envio uma requisição post com o axios para o servidor e a imagem é salva no próprio diretório.
