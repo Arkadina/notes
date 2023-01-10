@@ -33,6 +33,8 @@ arka.
 
 <a href="https://github.com/Arkadina/rocketseat-pricing-table">rocketseat-pricing-table</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32">Pricing table</a>. Intermediário: (html & css). 
 
+<a href="https://github.com/Arkadina/rocketseat-rocketblog">rocketseat-rocketblog</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e">Rocket blog</a>. Intermediário: (html & css). 
+
 ### ReactJS
 
 <a href="https://github.com/Arkadina/reactjs-CRUD-v1">reactjs-CRUD-v1</a> | Esse foi o meu primeiro projeto integrando Firebase e ReactJS. Ele é uma CRUD (create, read, update & delete) que você pode criar a sua conta, logar e adicionar dados à tabela. Há ainda alguns errinhos (como chamar várias vezes os mesmos dados, o que atrasa demais a renderização) mas dá para entender as funções do firebase (firestore e authenticator) integrando elas ao react.
