@@ -53,6 +53,8 @@ arka.
 
 <a href="https://github.com/Arkadina/click-render">Click Render</a> | Um mini projeto de clicker com typescript: ele pega a posição do click e gera um círculo nessas coordenadas.
 
+<a href="https://github.com/Arkadina/todo-list">Todo-list</a> | Testando animações com framer-motion e entendo como funciona o redux slicer.
+
 ### NodeJS
 
 <a href="https://github.com/Arkadina/api-restful-with-mysql">api-restful-with-mysql</a> | Aplicação de uma api usando NodeJS (express). Para fazer as requisições eu utilizei o Insomnia e para salvar os dados mySQL.
