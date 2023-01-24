@@ -2,7 +2,7 @@
 
 Hello, dev **(:**
 
-Criei esse repositório para apresentar os meus outros repositórios e deixar algumas anotações/resumos que considero importante das linguagens. Cada pasta contempla a linguagem que eu estou estudando e dentro dela está as anotações e os arquivos para teste.
+Criei esse repositório para apresentar os meus outros repositórios e as respectivas linguagens que eu estou estudando.
 
 arka.
 
@@ -15,7 +15,6 @@ arka.
 <a href="https://github.com/Arkadina/background-fixed">background-fixed</a> | Testando algumas propriedades no html e no css.
 
 #### Rocketseat
-
 
 <a href="https://github.com/Arkadina/rocketseat-pagina-de-receita">rocketseat-pagina-de-receita</a> | Desafio <a href="https://efficient-sloth-d85.notion.site/Desafio-Piloto-P-gina-de-Receita-15acc6a34f744484a2e64a1f115bfbae">Página de receita</a>. Iniciante: (html & css). 
 
@@ -54,6 +53,8 @@ arka.
 <a href="https://github.com/Arkadina/click-render">Click Render</a> | Um mini projeto de clicker com typescript: ele pega a posição do click e gera um círculo nessas coordenadas.
 
 <a href="https://github.com/Arkadina/todo-list">Todo-list</a> | Testando animações com framer-motion e entendo como funciona o redux slicer.
+
+<a href="https://github.com/Arkadina/hash-game">Hash-gane</a> | Um mini jogo da velha (de pizzas e folhas) - testando algumas bibliotecas e a lógica por trás do jogo.
 
 ### NodeJS
 
