@@ -58,7 +58,7 @@ arka.
 
 <a href="https://github.com/Arkadina/todo-list">Todo-list</a> | Testando animações com framer-motion e entendo como funciona o redux slicer.
 
-<a href="https://github.com/Arkadina/hash-game">Hash-gane</a> | Um mini jogo da velha (de pizzas e folhas) - testando algumas bibliotecas e a lógica por trás do jogo.
+<a href="https://github.com/Arkadina/hash-game">Hash-game</a> | Um mini jogo da velha (de pizzas e folhas) - testando algumas bibliotecas e a lógica por trás do jogo.
 
 ### NodeJS
 
