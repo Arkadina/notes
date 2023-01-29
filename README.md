@@ -62,7 +62,7 @@ arka.
 
 <a href="https://github.com/Arkadina/hash-game">hash-game</a> | Um mini jogo da velha (de pizzas e folhas) - testando algumas bibliotecas e a lógica por trás do jogo.
 
-<a href="https://github.com/Arkadina/react-rocket-shoes">react-rocket-shoes</a> | Construindo o mesmo projeto anterior mas agora através do ReactJS utilizando a biblioteca Tailwind CSS para estilizar componenentes. 
+<a href="https://github.com/Arkadina/react-rocket-shoes">react-rocket-shoes</a> | Construindo o mesmo <a href="https://github.com/Arkadina/rocketseat-rocket-shoes">projeto anterior</a> mas agora através do ReactJS e da biblioteca Tailwind CSS para estilizar componenentes. 
 
 ### NodeJS
 
