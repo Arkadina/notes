@@ -56,9 +56,13 @@ arka.
 
 <a href="https://github.com/Arkadina/click-render">Click Render</a> | Um mini projeto de clicker com typescript: ele pega a posição do click e gera um círculo nessas coordenadas.
 
+<a href="https://github.com/Arkadina/react-rocketblog">React-rocketblog</a> | Aprendendo a usar o motion-framer para criar animações.
+
 <a href="https://github.com/Arkadina/todo-list">Todo-list</a> | Testando animações com framer-motion e entendo como funciona o redux slicer.
 
 <a href="https://github.com/Arkadina/hash-game">Hash-game</a> | Um mini jogo da velha (de pizzas e folhas) - testando algumas bibliotecas e a lógica por trás do jogo.
+
+
 
 ### NodeJS
 
