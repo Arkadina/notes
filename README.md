@@ -64,6 +64,10 @@ arka.
 
 <a href="https://github.com/Arkadina/react-rocket-shoes">react-rocket-shoes</a> | Construindo o mesmo <a href="https://github.com/Arkadina/rocketseat-rocket-shoes">projeto anterior</a> mas agora através do ReactJS e da biblioteca Tailwind CSS para estilizar componenentes. 
 
+### React Native
+
+<a href="https://github.com/Arkadina/show-name-rnative">show-name-rnative</a> | Entendendo como funciona o React Native. É um repositório bem simples, mas já deu para perceber algumas diferenças e semelhanças entre ReactJS e React Native.
+
 ### NodeJS
 
 <a href="https://github.com/Arkadina/api-restful-with-mysql">api-restful-with-mysql</a> | Aplicação de uma api usando NodeJS (express). Para fazer as requisições eu utilizei o Insomnia e para salvar os dados mySQL.
