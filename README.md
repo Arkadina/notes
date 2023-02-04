@@ -66,7 +66,9 @@ arka.
 
 ### React Native
 
-<a href="https://github.com/Arkadina/show-name-rnative">show-name-rnative</a> | Entendendo como funciona o React Native. É um repositório bem simples, mas já deu para perceber algumas diferenças e semelhanças entre ReactJS e React Native.
+<a href="https://github.com/Arkadina/show-name-rnative">show-name-rnative</a> | Entendendo como funciona os componentes do React Native através de uma simples aplicação.
+
+<a href="https://github.com/Arkadina/navigate-mobile">navigate-mobile</a> | Primeiros passos com react navigate.
 
 ### NodeJS
 
