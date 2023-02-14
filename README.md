@@ -72,6 +72,8 @@ arka.
 
 <a href="https://github.com/Arkadina/navigate-mobile">navigate-mobile</a> | Primeiros passos com react navigate.
 
+<a href="https://github.com/Arkadina/todo-with-rnative">todo-with-rnative</a> | Uma aplicação maior que as anteriores: todo com redux slicer e react navigation.
+
 ### NodeJS
 
 <a href="https://github.com/Arkadina/api-restful-with-mysql">api-restful-with-mysql</a> | Aplicação de uma api usando NodeJS (express). Para fazer as requisições eu utilizei o Insomnia e para salvar os dados mySQL.
