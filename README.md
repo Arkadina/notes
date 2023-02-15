@@ -74,7 +74,7 @@ arka.
 
 <a href="https://github.com/Arkadina/todo-with-rnative">todo-with-rnative</a> | Uma aplicação maior que as anteriores: todo com redux slicer e react navigation.
 
-### NextJs
+### NextJS
 
 <a href="https://github.com/Arkadina/nextjs-fundamentals">nextjs-fundamentals</a> | Dando os meus primeiros passos com NextJS: conhecendo como funciona as rotas, parâmetros e queries, componentes nativos e estilização de elementos.
 
