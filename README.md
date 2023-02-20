@@ -74,7 +74,7 @@ arka.
 
 <a href="https://github.com/Arkadina/todo-with-rnative">todo-with-rnative</a> | Uma aplicação maior que as anteriores: todo com redux slicer e react navigation.
 
-<a href="https://github.com/Arkadina/post-galerry-native>post-gallery-native</a> | Galeria de posts de usuários com React Native: entendendo e testando propriedades do FlatList.
+<a href="https://github.com/Arkadina/post-galerry-native">post-gallery-native</a> | Galeria de posts de usuários com React Native: entendendo e testando propriedades do FlatList.
 
 ### NextJS
 
