@@ -76,6 +76,8 @@ arka.
 
 <a href="https://github.com/Arkadina/post-galerry-native">post-gallery-native</a> | Galeria de posts de usuários com React Native: entendendo e testando propriedades do FlatList.
 
+<a href="https://github.com/Arkadina/pop-up-modal">pop-up-modal</a> | Meus primeiros passos com animações de tela - nesse caso, um modal.
+
 ### NextJS
 
 <a href="https://github.com/Arkadina/nextjs-fundamentals">nextjs-fundamentals</a> | Dando os meus primeiros passos com NextJS: conhecendo como funciona as rotas, parâmetros e queries, componentes nativos e estilização de elementos.
