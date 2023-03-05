@@ -64,7 +64,9 @@ arka.
 
 <a href="https://github.com/Arkadina/hash-game">hash-game</a> | Um mini jogo da velha (de pizzas e folhas) - testando algumas bibliotecas e a lógica por trás do jogo.
 
-<a href="https://github.com/Arkadina/react-rocket-shoes">react-rocket-shoes</a> | Construindo o mesmo <a href="https://github.com/Arkadina/rocketseat-rocket-shoes">projeto anterior</a> mas agora através do ReactJS e da biblioteca Tailwind CSS para estilizar componenentes. 
+<a href="https://github.com/Arkadina/react-rocket-shoes">react-rocket-shoes</a> | Construindo o mesmo <a href="https://github.com/Arkadina/rocketseat-rocket-shoes">projeto anterior</a> mas agora através do ReactJS e da biblioteca Tailwind CSS para estilizar componenentes.
+
+<a href="https://github.com/Arkadina/pop-up-modal-reactjs">pop-up-modal-reactjs</a> | Um simples projeto de pop up modal, mas agora usando framer-motion no ReactJS. 
 
 ### React Native
 
