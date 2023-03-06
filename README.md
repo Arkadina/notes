@@ -66,7 +66,9 @@ arka.
 
 <a href="https://github.com/Arkadina/react-rocket-shoes">react-rocket-shoes</a> | Construindo o mesmo <a href="https://github.com/Arkadina/rocketseat-rocket-shoes">projeto anterior</a> mas agora através do ReactJS e da biblioteca Tailwind CSS para estilizar componenentes.
 
-<a href="https://github.com/Arkadina/pop-up-modal-reactjs">pop-up-modal-reactjs</a> | Um simples projeto de pop up modal, mas agora usando framer-motion no ReactJS. 
+<a href="https://github.com/Arkadina/pop-up-modal-reactjs">pop-up-modal-reactjs</a> | Um simples projeto de pop up modal, mas agora usando framer-motion no ReactJS.
+
+<a href="https://github.com/Arkadina/beginner-react-interview">begginer-react-interview</a> | Um <a href="https://www.youtube.com/watch?v=BJc5cX_D1Lg&ab_channel=WebDevCody">desafio</a> que vi no youtube e achei interessante refazer. Esse é mais básico, mas os proximos serão mais avançados.
 
 ### React Native
 
