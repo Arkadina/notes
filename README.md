@@ -70,6 +70,8 @@ arka.
 
 <a href="https://github.com/Arkadina/beginner-react-interview">begginer-react-interview</a> | Um <a href="https://www.youtube.com/watch?v=BJc5cX_D1Lg&ab_channel=WebDevCody">desafio</a> que vi no youtube e achei interessante refazer. Esse é mais básico, mas os proximos serão mais avançados.
 
+<a href="https://github.com/Arkadina/intermediate-react-interview">intermediate-react-interview</a> | Embora eu não tenha conseguido fazer o desafio de primeira, sem ver o vídeo, aprendi muita coisa. A ideia de criar um componente e renderizar ele mesmo dentro dele é sensacional: abriu os meus olhos para um novo tipo de looping indespensável para criar aninhamentos de componentes filhos. (=
+
 ### React Native
 
 <a href="https://github.com/Arkadina/show-name-rnative">show-name-rnative</a> | Entendendo como funciona os componentes do React Native através de uma simples aplicação.
