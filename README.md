@@ -40,6 +40,7 @@ arka.
 
 <a href="https://github.com/Arkadina/rocketseat-rocketflix">rocketseat-rocketflix</a> | Desafio: <a href="https://efficient-sloth-d85.notion.site/Desafio-Rocketflix-5ca1c56b5e52473eb12e8b2bc3ab1b8d#06e6ecb4212447c695dfbe7da61ec551">Rocket flix</a>. Avançado: (html, css & javascript).
 
+
 ### ReactJS
 
 <a href="https://github.com/Arkadina/reactjs-CRUD-v1">reactjs-CRUD-v1</a> | Esse foi o meu primeiro projeto integrando Firebase e ReactJS. Ele é uma CRUD (create, read, update & delete) que você pode criar a sua conta, logar e adicionar dados à tabela. Há ainda alguns errinhos (como chamar várias vezes os mesmos dados, o que atrasa demais a renderização) mas dá para entender as funções do firebase (firestore e authenticator) integrando elas ao react.
@@ -71,6 +72,8 @@ arka.
 <a href="https://github.com/Arkadina/beginner-react-interview">begginer-react-interview</a> | Um <a href="https://www.youtube.com/watch?v=BJc5cX_D1Lg&ab_channel=WebDevCody">desafio</a> que vi no youtube e achei interessante refazer. Esse é mais básico, mas os proximos serão mais avançados.
 
 <a href="https://github.com/Arkadina/intermediate-react-interview">intermediate-react-interview</a> | Embora eu não tenha conseguido fazer o desafio de primeira, sem ver o vídeo, aprendi muita coisa. A ideia de criar um componente e renderizar ele mesmo dentro dele é sensacional: abriu os meus olhos para um novo tipo de looping indespensável para criar aninhamentos de componentes filhos. (=
+
+<a href="https://github.com/Arkadina/multi-select-state-dropdown">multi-select-state-dropdown</a> | Outro desafio iniciante, mas utilizando Typescript para testar como funciona.
 
 ### React Native
 
