@@ -87,6 +87,8 @@ arka.
 
 <a href="https://github.com/Arkadina/pop-up-modal">pop-up-modal</a> | Meus primeiros passos com animações de tela - nesse caso, um modal.
 
+<a href="https://github.com/Arkadina/navigate-mobile-2">navigate-mobile-2</a> | O mesmo projeto mas na segunda versão: adicionado fontes com o expo e screens agora com efeito horizontal.
+
 ### NextJS
 
 <a href="https://github.com/Arkadina/nextjs-fundamentals">nextjs-fundamentals</a> | Dando os meus primeiros passos com NextJS: conhecendo como funciona as rotas, parâmetros e queries, componentes nativos e estilização de elementos.
