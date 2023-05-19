@@ -108,3 +108,5 @@ arka.
 <a href="https://github.com/Arkadina/node-and-ejs">node-and-ejs</a> | Aprendendo como funciona o EJS para renderizar páginas através do node (express). Estilização: bootstrap.
 
 <a href="https://github.com/Arkadina/multer-and-react">multer & react</a> | Testando o multer com o front-end: através do formik, envio uma requisição post com o axios para o servidor e a imagem é salva no próprio diretório.
+
+<a href="https://github.com/Arkadina/api-rest">api-rest</a> | Projeto feito com base em outro: fui lendo um repositório que acabei encontrando e, a partir daí, reconstruí-o modificando, criando anotações e testando com o Postman. Foi ótimo, aprendi bastante sobre as bibliotecas Mongoose e jsonwebtoken.
