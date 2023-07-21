@@ -112,3 +112,5 @@ arka.
 <a href="https://github.com/Arkadina/api-rest">api-rest</a> | Projeto feito com base em outro: fui lendo um repositório que acabei encontrando e, a partir daí, reconstruí-o modificando, criando anotações e testando com o Postman. Foi ótimo, aprendi bastante sobre as bibliotecas Mongoose e jsonwebtoken.
 
 <a href="https://github.com/Arkadina/basic-prisma-api">basic-prisma-api</a> | Aprendendo como o Prisma funciona. É uma API básica baseada em outro repositório, feito com NodeJS e Typescript.
+
+<a href="https://github.com/Arkadina/email-ejs">email-ejs</a> | Um pequeno repositório para enviar email através do NodeJS, usando ejs.
