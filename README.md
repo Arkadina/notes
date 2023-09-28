@@ -89,6 +89,8 @@ arka.
 
 <a href="https://github.com/Arkadina/navigate-mobile-2">navigate-mobile-2</a> | O mesmo projeto mas na segunda versão: adicionado fontes com o expo e screens agora com efeito horizontal.
 
+<a href="https://github.com/Arkadina/localstorage-mobile">localstorage-mobile</a> | Testando como funciona para persistir dados com o redux-persist e outras funcionalidades que eu nunca tinha visto: keyboard, vibration, TouchableWithoutFeedback, por ai.
+
 ### NextJS
 
 <a href="https://github.com/Arkadina/nextjs-fundamentals">nextjs-fundamentals</a> | Dando os meus primeiros passos com NextJS: conhecendo como funciona as rotas, parâmetros e queries, componentes nativos e estilização de elementos.
