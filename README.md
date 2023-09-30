@@ -116,3 +116,10 @@ arka.
 <a href="https://github.com/Arkadina/basic-prisma-api">basic-prisma-api</a> | Aprendendo como o Prisma funciona. É uma API básica baseada em outro repositório, feito com NodeJS e Typescript.
 
 <a href="https://github.com/Arkadina/email-ejs">email-ejs</a> | Um pequeno repositório para enviar email através do NodeJS, usando ejs.
+
+## Github - gits
+
+### py
+
+Apredendo a criar bots para servidores do discord! Pretendo utilizá-los em futuros projetos :))
+<a href="https://gist.github.com/Arkadina/ba401a91d9b588f5f3af7c9a65a61a36">Discord.py #1</a> 
