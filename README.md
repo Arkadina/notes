@@ -99,6 +99,8 @@ arka.
 
 <a href="https://github.com/Arkadina/next12-data-table">next12-data-table</a> | Outro projeto feito em Next-12, baseado em outro que eu já tinha feito em ReactJS. Aprendi e relembrei muitas coisas fazendo-o. Pretendo fazer o mesmo projeto com Next13, já corrigindo uns pequenos bugs e melhorando a estrutura do código, já que esse projeto eu tinha feito há algum tempo atrás.
 
+<a href="https://github.com/Arkadina/nextjs-auth-firebase">nextjs-auth-firebase</a> shadcn, firebase & next-auth
+
 ### NodeJS
 
 <a href="https://github.com/Arkadina/api-restful-with-mysql">api-restful-with-mysql</a> | Aplicação de uma api usando NodeJS (express). Para fazer as requisições eu utilizei o Insomnia e para salvar os dados mySQL.
