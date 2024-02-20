@@ -75,6 +75,8 @@ arka.
 
 <a href="https://github.com/Arkadina/multi-select-state-dropdown">multi-select-state-dropdown</a> | Outro desafio iniciante, mas utilizando Typescript para testar como funciona.
 
+<a href="https://github.com/Arkadina/shadcnui-w-react">shadcnui-w-react</a> shadcn-ui, zod & hookforms
+
 ### React Native
 
 <a href="https://github.com/Arkadina/show-name-rnative">show-name-rnative</a> | Entendendo como funciona os componentes do React Native através de uma simples aplicação.
