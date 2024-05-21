@@ -123,6 +123,10 @@ arka.
 
 <a href="https://github.com/Arkadina/order_food_discord">order_food_discord</a>
 
+## Java
+
+<a href="https://github.com/Arkadina/FragmentsGem">FragmentsGem</a> | Meu primeiro código em java. É um plugin de minecraft =).
+
 ## Github - gits
 
 ### py
