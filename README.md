@@ -133,3 +133,7 @@ arka.
 
 Apredendo a criar bots para servidores do discord! Pretendo utilizá-los em futuros projetos :))
 <a href="https://gist.github.com/Arkadina/ba401a91d9b588f5f3af7c9a65a61a36">Discord.py #1</a> 
+
+### ts
+
+<a href="https://gist.github.com/Arkadina/d050a35edad8937f70dbe30e1f4c2b7a">Classes em ts<a> ~ tinha me esquecido!?
