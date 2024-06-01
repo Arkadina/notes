@@ -123,7 +123,9 @@ arka.
 
 <a href="https://github.com/Arkadina/order_food_discord">order_food_discord</a>
 
-<a href="https://github.com/Arkadina/lib-save-file">lib-save-file</a> | Salvar arquivos no NodeJS.
+<a href="https://github.com/Arkadina/lib-save-file">lib-save-file</a> | Uma lib que eu criei para salvar arquivos usando NodeJS.
+
+<a href="https://github.com/Arkadina/testing-socket-io">testing-socket-io</a> | Como eu iria precisar criar um status realtime, fiz esse pequeno projeto para entender o socket.io (nodejs + reactjs).
 
 ## Java
 
